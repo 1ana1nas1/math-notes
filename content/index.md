@@ -1,5 +1,5 @@
 ---
-title: Welcometo Math Notes
+title: Welcome to Math Notes
 ---
 
 
