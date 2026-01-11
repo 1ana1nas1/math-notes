@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Welcometo Math Notes
 ---
 
 This is a blank Quartz installation.
